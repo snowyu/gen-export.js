@@ -17,7 +17,7 @@ $ npm install -g gen-export
 $ gen-export-js COMMAND
 running command...
 $ gen-export-js (--version)
-gen-export/0.0.0 linux-x64 node-v18.15.0
+gen-export/1.0.0 linux-x64 node-v18.15.0
 $ gen-export-js --help [COMMAND]
 USAGE
   $ gen-export-js COMMAND
@@ -54,7 +54,7 @@ EXAMPLES
   export * from './b.js'
 ```
 
-_See code: [dist/commands/index.ts](https://github.com/snowyu/gen-export.js/blob/v0.0.0/dist/commands/index.ts)_
+_See code: [dist/commands/index.ts](https://github.com/snowyu/gen-export.js/blob/v1.0.0/dist/commands/index.ts)_
 
 ## `gen-export-js autocomplete [SHELL]`
 
