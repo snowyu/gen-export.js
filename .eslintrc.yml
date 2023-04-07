@@ -1,0 +1,7 @@
+extends:
+  - "oclif"
+  - "oclif-typescript"
+rules:
+  unicorn/no-array-for-each: off
+  no-useless-concat: off
+  node/no-extraneous-import: off
