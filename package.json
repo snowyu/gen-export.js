@@ -1,6 +1,6 @@
 {
   "name": "gen-export",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate the index.js of ESM for a directory",
   "author": "Riceball LEE @snowyu",
   "bin": {
@@ -48,8 +48,7 @@
       "@oclif/plugin-help"
     ],
     "topicSeparator": " ",
-    "topics": {
-    }
+    "topics": {}
   },
   "scripts": {
     "build": "shx rm -rf dist && tsc -b",
